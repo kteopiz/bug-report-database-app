@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+button{
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+form{
+    padding:30px 20px;
+    width: 25%;
+    border-radius: 10px;
+    background-color: beige;
+}
+
+.info-container{
+    margin-bottom: 5px;
+}
+
+.containerB{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cancelbtn{
+    width: 30%;
+    border-radius: 10px;
+}
+
+
+.forgotbtn{
+    width: 30%;
+}
