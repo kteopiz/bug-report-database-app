@@ -62,6 +62,7 @@ html {
     align-items: center;
     gap: 15px;
     display: flex;
+    background: url(/images/debug-background.png) no-repeat right;
 }
 
 .main-text-section {
