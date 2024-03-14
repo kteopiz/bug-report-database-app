@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.homepage-nav {
+    display: flex;
+    flex-direction: row;
+    height: 75px;
+    border-bottom: solid black;
+}
+
+.left-sec-nav , .right-sec-nav {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.left-sec-nav {
+    margin-right: auto;
+    margin-left: 30px;
+}
+
+.right-sec-nav {
+    margin-left: auto;
+    margin-right: 30px;
+    font-size: large;
+}
