@@ -56,7 +56,7 @@ html {
 
 /* HEADER STYLES END ------ MAIN SECTION STYLES BEGIN */
 
-.main-content-container{
+.main-content-container {
     flex: 1 1 auto;
     flex-direction: column;
     justify-content: center;
