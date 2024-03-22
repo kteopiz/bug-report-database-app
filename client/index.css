@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: 'Inter', 'Arial', sans-serif;
 }
 
 ul {
@@ -55,14 +56,16 @@ html {
 
 /* HEADER STYLES END ------ MAIN SECTION STYLES BEGIN */
 
-.main-content-container{
+.main-content-container {
     flex: 1 1 auto;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 15px;
     display: flex;
-    background: url(/images/debug-background.png) no-repeat right;
+    background-image: url(/images/debug-background.png);
+    background-position: right;
+    background-repeat: no-repeat;
 }
 
 .main-text-section {
