@@ -1,8 +1,16 @@
 # Bug Report Database App
 
-## Welcome to the Bug Reporting System (BRS) project!
+## Contributors
 
-This system is designed to help users efficiently report and manage bugs or defects in various software components. This README.md file provides essential information for developers, contributors, and users to understand, contribute, and use the Bug Reporting System.
+* Bhavdeep Arora
+* Hameez Iqbal
+* Mohammed Jama
+* Sarankan Srikaran
+* Kyle Teopiz
+
+## Bug Reporting System (BRS)
+
+This system is designed to help users efficiently report and manage bugs or defects in various software components. This README.md file provides essential information for developers, contributors, and users to understand, contribute, and use the Bug Reporting System. 
 
 ## Getting Started
 
